@@ -1,4 +1,4 @@
-# Arduino code
+# Arduino Code
 
 ## Interrupts and Timer Usage
 
